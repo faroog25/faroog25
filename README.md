@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Faroog Bajhaw</h1>
-<h3 align="center">As a passionate Full-Stack Developer, I am currently expanding my skills in ASP.NET Core at a beginner to intermediate level. My journey in web development encompasses both front-end and back-end technologies, allowing me to create comprehensive and efficient web applications. I am committed to continuous learning and staying updated with the latest industry trends and best practices. I thrive in collaborative team environments, where I can contribute my growing knowledge and learn from experienced colleagues. My ability to communicate effectively and my dedication to agile methodologies enable me to work harmoniously within diverse teams. Whether facing new challenges or improving existing systems, I approach every project with enthusiasm and a proactive mindset.</h3>
+### About Me
+
+- **Full-Stack Developer** passionate about web development.  
+- **Currently expanding** my skills in **ASP.NET Core** (beginner to intermediate level).  
+- **Experience in both** front-end and back-end technologies.  
+- **Committed to continuous learning** and staying updated with industry trends.  
+- **Thrive in collaborative team environments**, contributing and learning from experienced colleagues.  
+- **Strong communication skills** and a dedication to agile methodologies.  
+- **Proactive approach** to tackling new challenges and improving existing systems.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faroog25&label=Profile%20views&color=0e75b6&style=flat" alt="faroog25" /> </p>
 
