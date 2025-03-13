@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faroog25" alt="faroog25" /></a> </p>
 
-- 🔭 I’m currently working on [Gym Management System](https://github.com/U-Apps/G3-IT-Al-Tamimi)
+- 🔭 I’m currently working on [Construction_Management_Assistant]((https://github.com/U-Apps/Construction_Management_Assistant))
 
 - 🌱 I’m currently learning **Asp.net Core**
 
